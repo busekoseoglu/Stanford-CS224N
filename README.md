@@ -6,4 +6,5 @@ This repo contains lecture notes and assignments for the Stanford-CS224N course.
 
 * Lecture 2 : Neural Classifiers
 
-* Lecture 3 :
+* Lecture 3 : Backprop and Neural Networks
+* Lecture 4 : Syntatic Structure and Dependency Parsing
