@@ -15,7 +15,7 @@ This repo contains lecture notes and assignments for the Stanford-CS224N course.
 * Lecture 11 : Question Answering
 * Lecture 12 : Natural Language Generation
 * Lecture 13 : Coeference Resolution
-* Lecture 14 : T% and Large Language Models
+* Lecture 14 : T5 and Large Language Models
 * Lecture 15 : Add Knowledge to language models
 * Lecture 16 : Social and Ethical Considerations
 * Lecture 17 : Model Analysis and Explanation
